@@ -1,0 +1,25 @@
+{
+	#
+	# terrain with gameplay effects
+	#
+	"IndEvo_mine_belt":{
+		"plugin":"indevo.exploration.minefields.MineBeltTerrainPlugin",
+		"loopOne":"terrain_asteroid_field",
+	},
+
+	"IndEvo_mine_field":{
+		"plugin":"indevo.exploration.minefields.MineFieldTerrainPlugin",
+		"musicSuppression":0.25,
+		"loopOne":"terrain_asteroid_field",
+	},
+
+	"IndEvo_artillery_range_terrain":{
+		"plugin":"indevo.industries.artillery.terrain.ArtilleryTerrain",
+	},
+
+	"IndEvo_slowfield":{
+		"plugin":"indevo.industries.artillery.terrain.SlowFieldTerrain",
+		"musicSuppression":0.50,
+	}
+}
+

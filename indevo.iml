@@ -4,8 +4,21 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/indevo/WIP/converters" />
+      <excludeFolder url="file://$MODULE_DIR$/src/indevo/exploration/salvage/specials/WIP" />
+      <excludeFolder url="file://$MODULE_DIR$/src/indevo/industries/academy/rules/WIP" />
+      <excludeFolder url="file://$MODULE_DIR$/src/indevo/industries/derelicts/industry/WIP" />
     </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="starfarer.api" level="project" />
+    <orderEntry type="library" name="LazyLib" level="project" />
+    <orderEntry type="library" name="jars-MagicLib" level="project" />
+    <orderEntry type="library" name="jars-LunaLib" level="project" />
+    <orderEntry type="library" name="jars-graphicslib" level="project" />
+    <orderEntry type="library" name="jars-Nex" level="project" />
+    <orderEntry type="library" name="SHI" level="project" />
+    <orderEntry type="library" name="jars-ConsoleCommands" level="project" />
+    <orderEntry type="library" name="Kotlin-Runtime" level="project" />
   </component>
 </module>

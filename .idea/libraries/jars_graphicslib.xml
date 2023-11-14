@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars-graphicslib">
+    <CLASSES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-graphicslib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-graphicslib" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars-ConsoleCommands">
+    <CLASSES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-ConsoleCommands" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-ConsoleCommands" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-ConsoleCommands" recursive="false" />
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-ConsoleCommands" recursive="false" type="SOURCES" />
+  </library>
+</component>

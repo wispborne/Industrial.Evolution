@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Kotlin-Runtime">
+    <CLASSES>
+      <root url="jar://F:/Code/Starsector/GlobalMods/LazyLib/jars/lib/Kotlin-Runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

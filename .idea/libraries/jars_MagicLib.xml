@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars-MagicLib">
+    <CLASSES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-MagicLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-MagicLib" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-MagicLib" recursive="false" />
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-MagicLib" recursive="false" type="SOURCES" />
+  </library>
+</component>

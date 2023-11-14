@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jars-Nex">
+    <CLASSES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-Nex" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-Nex/ExerelinCore" />
+      <root url="file://F:/Code/Starsector/GlobalMods/jars-Nex" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-Nex" recursive="false" />
+    <jarDirectory url="file://F:/Code/Starsector/GlobalMods/jars-Nex" recursive="false" type="SOURCES" />
+  </library>
+</component>

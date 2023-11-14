@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SHI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Shadowyards_Wisp/jars/SHI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

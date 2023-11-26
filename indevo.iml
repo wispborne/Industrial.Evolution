@@ -17,8 +17,9 @@
     <orderEntry type="library" name="jars-LunaLib" level="project" />
     <orderEntry type="library" name="jars-graphicslib" level="project" />
     <orderEntry type="library" name="jars-Nex" level="project" />
-    <orderEntry type="library" name="SHI" level="project" />
     <orderEntry type="library" name="jars-ConsoleCommands" level="project" />
     <orderEntry type="library" name="Kotlin-Runtime" level="project" />
+    <orderEntry type="library" name="jars" level="project" />
+    <orderEntry type="library" name="jars-SRA" level="project" />
   </component>
 </module>
